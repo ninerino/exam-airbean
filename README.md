@@ -8,6 +8,9 @@ Länk till vår FigJam hittas [här](https://www.figma.com/board/u1q68FuFGJBPCwf
 Vi har delat upp applikationen utefter i fyra olika kategorier: **Produkter**, **Kundhantering**, **Kassa** och **Leverans**.
 
 ## Pattern recognition
+Här blickade vi ut över vår decomposition för att försöka hitta alla möjliga typer av gemensamma nämnare. Vi hade till en början lite problem med att skilja på vad som borde finnas under pattern recognition och vad som borde vara under abstraction. Det vi så småningom landade i var att abstraction handlar om att förenkla och dölja oväsentliga detaljer, medan pattern recognition helt enkelt handlar om att identifiera mönster och skapa lösningar som kan återanvändas. Som exempelvis hamburgemenyn eller varukorgen. Men även sånt som användarbeteende, vilket kan vara användbart i en sån här typ av app då det exempelvis kan vara bra för kunden att kunna lagra sin betalningsinformation, adress, samt att få en anpassad meny där exempelvis "Du beställde senast" eller "Du kanske också gillar" återfinns överst på menyn.
+
+Summan av vårt resonemang här var att vi vill göra det så enkelt för våra framtida jag som möjligt, så när vi i det inledande skedet bryter ner helheten i mindre beståndsdelar så fortsätter vi processen med hjälp av pattern recognition genom att hitta olika områden av problem som kan lösas på ett gemensamt sätt.
 
 ## Abstraction
 
