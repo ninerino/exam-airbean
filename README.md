@@ -1,11 +1,19 @@
-# exam-airbean
-**Fantastic Scientists** - *Robin L, Nikki & Emund*
+# Computational Thinking - Air Bean Group Project
+**Fantastic Scientists**
 
 Länk till vår FigJam hittas [här](https://www.figma.com/board/u1q68FuFGJBPCwfCQcJlxe/Computational-Thinking---Group-Project?node-id=0-1&node-type=canvas&t=PhDZA7ApaRL6y3W7-0).
 
 ## Decomposition
 
-Vi har delat upp applikationen utefter i fyra olika kategorier: **Produkter**, **Kundhantering**, **Kassa** och **Leverans**.
+Vi har delat upp applikationen utefter i fyra olika kategorier: **Produkter**, **Kundhantering**, **Kassa** och **Leverans**. Varje kategori innehåller sina egna specifika funktioner och processer som bidrar till att skapa en sammanhängande och användarvänlig tjänst.
+
+**Produkter** inkluderar hanteringen av produktdetaljer såsom namn, pris och beskrivning, vilka lagras i en dedikerad databastabell. Vi gör ett antagande att systemet erbjuder rekommendationer och möjligheten att visa de senaste beställningarna, baserat på användarens beteende och preferenser. Även dessa data hanteras via en separat databastabell.
+
+**Kundhantering** täcker flera aspekter av användarens interaktion med applikationen. Det inkluderar autentisering och lösenordshantering vid inloggning, tillsammans med en registreringsprocess som validerar användarinformation och sparar den i databasen. Dessutom erbjuds kundservice i form av en informationssida, en chattfunktion som vi gör ett antagande att det finns och övriga kontaktalternativ. Kundprofiler gör det möjligt för användare att hantera sina konton, inklusive redigering av inställningar, så som betalningssätt, leveransadress och kontoinformation. En viktig funktion i denna kategori är också tillgången till orderhistorik.
+
+**Kassa** är optimerad för att göra betalningsprocessen enkel och säker. Den hanterar varukorgen, olika betalningsalternativ och möjligheten att använda rabattkoder. Sparade betalningsmetoder lagras i en skyddad databastabell, vilket säkerställer hög säkerhet och snabb åtkomst vid framtida beställningar. Själva betalningssystemet måste också skötas på ett säkert sätt.
+
+**Leverans** fokuserar på att informera användaren om leveransen. Efter en beställning genereras en orderbekräftelse som inkluderar ett unikt ordernummer och en uppskattad leveranstid. Användaren får även möjlighet att följa leveransen via realtidsuppdateringar (återigen, ett antagande från vår sida), vilket förbättrar transparens och tillfredsställelse. Viktiga data som ordernummer och leveransinformation lagras i dedikerade databastabeller för korrekt hantering och spårning.
 
 ## Pattern recognition
 Här blickade vi ut över vår decomposition för att försöka hitta alla möjliga typer av gemensamma nämnare. Vi hade till en början lite problem med att skilja på vad som borde finnas under pattern recognition och vad som borde vara under abstraction. Det vi så småningom landade i var att abstraction handlar om att förenkla och dölja oväsentliga detaljer, medan pattern recognition helt enkelt handlar om att identifiera mönster och skapa lösningar som kan återanvändas. Som exempelvis hamburgemenyn eller varukorgen. Men även sånt som användarbeteende, vilket kan vara användbart i en sån här typ av app då det exempelvis kan vara bra för kunden att kunna lagra sin betalningsinformation, adress, samt att få en anpassad meny där exempelvis "Du beställde senast" eller "Du kanske också gillar" återfinns överst på menyn.
