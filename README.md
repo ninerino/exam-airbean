@@ -15,6 +15,11 @@ Summan av vårt resonemang här var att vi vill göra det så enkelt för våra 
 ## Abstraction
 
 ## Algorithm design
+När det till sist var dags att göra vår algorithm design så valde vi att bryta ned det till ett flöde för varje menyalternativ, även då uppgiften egentligen var att beskriva flödet från att användaren landar på sidan till att beställningen är lagd.
+
+Vi landar först på splashsidan, tar oss därifrån till menyn, och beroende på vilka val vi gör därefter så har vi beskrivit de olika utfallen, fram tills dess att en order blir lagd.
+
+Det intressanta här var att få zooma ut lite och få en helhetsbild över hur processen faktiskt ser ut. Men överlag inga konstigheter utan i o m förarbetet vi gjort som ledde fram till vår algorithm design så flöt den här delen av uppgiften på smidigt.
 
 ### Initial startup av applikation
 
