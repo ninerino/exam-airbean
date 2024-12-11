@@ -14,6 +14,10 @@ Summan av vårt resonemang här var att vi vill göra det så enkelt för våra 
 
 ## Abstraction
 
+Applikationen är utformad för att leverera en enkel och effektiv upplevelse för användaren, med fokus på de mest grundläggande och viktiga funktionerna. Användaren ska kunna se en tydligt presenterad lista över tillgängliga drycker, vilket möjliggör en snabb och smidig navigering. Därefter kan användaren välja en eller flera drycker för att lägga till i sin beställning. För att göra processen så bekväm som möjligt ges användaren möjlighet att genomföra sin order direkt, utan att behöva gå igenom krångliga steg. Efter beställningen ska användaren enkelt kunna följa sin orderstatus, från att beställningen är mottagen till dess att leveransen är på väg. Slutligen ska användaren kunna ta emot sin beställning via en smidig leveransprocess.
+
+Utöver dessa kärnfunktioner erbjuds användaren ytterligare möjligheter för en mer personaliserad upplevelse. Genom att skapa ett konto och logga in kan användaren spara sin information och därmed förenkla framtida beställningar. En inloggad användare får dessutom tillgång till en historik över tidigare beställningar, vilket ger ökad transparens och enkel åtkomst till sina favoritval. Dessa tilläggsfunktioner är valfria och påverkar inte möjligheten att använda tjänsten som gäst.
+
 ## Algorithm design
 När det till sist var dags att göra vår algorithm design så valde vi att bryta ned det till ett flöde för varje menyalternativ, även då uppgiften egentligen var att beskriva flödet från att användaren landar på sidan till att beställningen är lagd.
 
