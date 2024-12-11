@@ -1,11 +1,17 @@
 # exam-airbean
-**Fantastic Scientists** - <em>Robin L, Nikki & Emund</em>
+**Fantastic Scientists** - *Robin L, Nikki & Emund*
 
 Länk till vår FigJam hittas [här](https://www.figma.com/board/u1q68FuFGJBPCwfCQcJlxe/Computational-Thinking---Group-Project?node-id=0-1&node-type=canvas&t=PhDZA7ApaRL6y3W7-0).
 
 ## Decomposition
 
-Vi har delat upp applikationen utefter de olika menyval som finns - Meny, Vårt Kaffe, Min Profil och Orderstatus. Härifrån har vi gjort några rimliga antaganden baserat på Figmaskissen:
+Vi har delat upp applikationen utefter i fyra olika kategorier: **Produkter**, **Kundhantering**, **Kassa** och **Leverans**.
+
+## Pattern recognition
+
+## Abstraction
+
+## Algorithm design
 
 ### Initial startup av applikation
 
@@ -39,9 +45,3 @@ Trycker kunden på Min profil i menyn så gör vi ett rimligt antagande baserat 
 ### Orderstatus
 
 Här gör vi ett antagande att orderstatus visar en pågående beställning, så kunden bör då skickas till samma sida som den hamnar på efter en bekräftad beställning, som visar ordernummer och uppskattad leveranstid.
-
-## Pattern recognition
-
-## Abstraction
-
-## Algorithm design
