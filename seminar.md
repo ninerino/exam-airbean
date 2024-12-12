@@ -4,9 +4,11 @@
 
 ### 01 
 
-mer utförligt svar från chatgpt, tydliga instruktioner med kodförslag medans aizo lämnar mer utrymme för tolkning. Chatgpt går mer på djupet och bryter ned varje enskild punkt i detalj medans aizos svar uppmuntrar för mer eget tänkande.
+Mer utförligt svar från chatgpt, tydliga instruktioner med kodförslag medans aizo lämnar mer utrymme för tolkning. Chatgpt går mer på djupet och bryter ned varje enskild punkt i detalj medans aizos svar uppmuntrar för mer eget tänkande.
 
 ### 02
+
+Chatgpt genererar en mer generisk pseudokod som är lättare för en nybörjare att förstå, medans aizo förutsätter ett visst kunnande och genererar en pseudokod som är lite mer avancerad. Även i beskrivningen använder chatgpt mer nybörjarvänliga beskrivningar samtidigt som aizo använder begrepp som while-loop.
 
 ### 03
 
