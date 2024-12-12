@@ -16,7 +16,7 @@
 
 Aizo kallar det för CSS-egenskap medan ChatGPT kallar det för CSS-regel. 
 
-I övrigt så är ChatGPT mer utförlig i sina svar och har även en sammanfattning på slutet, medan Aizo ställer en motfråga.
+I övrigt så är ChatGPT mer utförlig i sina svar där den förklarar både hur man justerar positivt och negativt och har även en sammanfattning på slutet, medan Aizo ställer en motfråga. I övrigt är det väldigt lika i språkbruket.
 
 ### 06
 
