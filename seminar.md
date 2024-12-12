@@ -22,6 +22,10 @@ I övrigt så är ChatGPT mer utförlig i sina svar där den förklarar både hu
 
 ### 06
 
+Jag fick aldrig exakt samma kod tillbaka, utan det var små förändringar även om den största majoriteten var likadan. Jag upplever att den ibland justerar sin egen ändring, som att den inte riktigt vet själv vad som är rätt. 
+
+Gällande .promise() och att den är utdaterad så tror jag det beror på att inlärningsmodellen är äldre och att den har lärt sig mycket på "gammal" kod vilket gör att den också föreslår "gammal" kod.
+
 ### 07
 
 ### 08
