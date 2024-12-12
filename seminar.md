@@ -10,6 +10,25 @@ Mer utförligt svar från chatgpt, tydliga instruktioner med kodförslag medans 
 
 Chatgpt genererar en mer generisk pseudokod som är lättare för en nybörjare att förstå, medans aizo förutsätter ett visst kunnande och genererar en pseudokod som är lite mer avancerad. Även i beskrivningen använder chatgpt mer nybörjarvänliga beskrivningar samtidigt som aizo använder begrepp som while-loop.
 
+Starta spelet
+    Definiera STEGE som en lista av mål: [1, 2, 3, 4, 5, 6]
+    Sätt NUVARANDE_INDEX till 0 (börja med första steget)
+    Sätt ANTAL_KAST till 0 (räkna antal kast)
+
+    Upprepa så länge NUVARANDE_INDEX < längden på STEGE:
+        Slumpa ett tal mellan 1 och 6 (TÄRNINGSKAST)
+        Öka ANTAL_KAST med 1
+        
+        Om TÄRNINGSKAST är lika med STEGE[NUVARANDE_INDEX]:
+            Öka NUVARANDE_INDEX med 1 (gå till nästa steg i stegen)
+
+    När loopen avslutas:
+        Skriv ut ANTAL_KAST som antalet kast som krävdes för att nå stegen
+
+Avsluta spelet
+
+Svaret från chatGPT
+
 ### 03
 
 ## AI som studiekamrat
