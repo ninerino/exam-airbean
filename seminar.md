@@ -4,6 +4,8 @@
 
 ### 01 
 
+mer utförligt svar från chatgpt, tydliga instruktioner med kodförslag medans aizo lämnar mer utrymme för tolkning. Chatgpt går mer på djupet och bryter ned varje enskild punkt i detalj medans aizos svar uppmuntrar för mer eget tänkande.
+
 ### 02
 
 ### 03
