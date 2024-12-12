@@ -31,6 +31,8 @@ Svaret från chatGPT
 
 ### 03
 
+Testade båda och fick liknande resultat i konsollen. Båda loggade varje kast och om det var lyckat eller ej. De loggades även ut hur många kast totalt det resulterade i när spelet var slut.
+
 ## AI som studiekamrat
 
 ### 04
