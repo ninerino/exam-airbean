@@ -37,6 +37,15 @@ Testade båda och fick liknande resultat i konsollen. Båda loggade varje kast o
 
 ### 04
 
+Enligt chatgpt är dess begränsningar att:
+- Jag kan inte interagera med externa API:er eller system i realtid utan hjälp av din lokala miljö.
+- För mycket specialiserade eller domänspecifika problem kan det ta tid att sätta upp en lösning om jag behöver ytterligare kontext.
+- Väldigt stora projekt (som ett helt system) är svåra att bygga på en gång, men jag kan ge dig en plan, startkoden och vägledning.
+
+Samtidigt kan chatgpt jobba i betydligt fler språk så som exempelvis Python, Java, C++, C#, PHP etc medans aizos huvudfokus är HTML, CSS och Javascript. 
+
+När vi frågade aizo vilka begränsningar den har, så svarar den först att den helst inte löser hela problemet, utan älskar att guida oss genom processen och ställa frågor som hjälper en att tänka själv, medans dess begränsningar är mer avancerade eller specifika områden utanför HTML, CSS och Javascript som till exempel maskininlärning eller vissa backend-teknologier.
+
 ### 05
 
 Aizo kallar det för CSS-egenskap medan ChatGPT kallar det för CSS-regel. 
