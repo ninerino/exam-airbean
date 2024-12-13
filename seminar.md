@@ -108,7 +108,7 @@ AI kan generera felaktig, utdaterad eller ineffektiv kod. Det krävs att vi kan 
 
 En klar styrka är att vi tillåts att effektivisera vårt arbete, dock är det såklart förutsatt att vi faktiskt vet vad vi pysslar med. Praktiskt att ha allt "in house", istället för att behöva hoppa fram och tillbaka mellan program vilket kan störa fokus. 
 
-Risken är även här att vi använder för mycket "färdig" kod, och elementet av att tänka sig själv fram till en lösning riskerar att försvinna.
+Risken är även här att vi använder för mycket "färdig" kod, och elementet av att tänka sig själv fram till en lösning riskerar att försvinna. Är nog en bra idé att till en början som student stänga av "auto complete" funktionen så att vi inte behöver oroa oss för att överanvända det.
 
 ### 12
 
