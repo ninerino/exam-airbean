@@ -66,6 +66,8 @@ Stora skillnader i hur chatGPT svarar på frågan (dock efter att jag startat en
 
 ### 08
 
+Stor skillnad! Med anpassning så fungerar ChatGPT mer som en lärare som förklarar varje steg, kommenterar koden så att man ska förstå vad varje rad gör, och kommer med exempel från "riktiga livet". När jag tog bort anpassningarna så fick jag bara koden rakt upp och ner, utan förklaring. Helt värdelöst!
+
 ### 09
 
 Vi tycker att det är OK att använda AI för att:
