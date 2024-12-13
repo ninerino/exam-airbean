@@ -116,6 +116,8 @@ Förutsatt att vi förstår och bottnar i det vi gör, så är det ett effektivt
 
 ### 13
 
+Nikki tyckte att Github labs code brushes som städar upp ser otroligt nice ut. Emund tycker att det ser väldigt nice ut att copilot skriver bredvid och alltid ger förslag på färdig kod som man kan välja att implementera själv. Robin tycker att der ser väldigt effektivt ut och att man kan bli riktigt produktiv när man använder det på rätt sätt.
+
 ## AI i yrkeslivet
 
 ### 14
