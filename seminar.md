@@ -112,6 +112,8 @@ Risken är även här att vi använder för mycket "färdig" kod, och elementet 
 
 ### 12
 
+Förutsatt att vi förstår och bottnar i det vi gör, så är det ett effektivt sätt att skynda på arbetsprocessen. Vill understryka här dock att det är bättre att använda verktyget för lite än för mycket, så att vi inte riskerar att fastna i en loop där vi inte behöver tänka så mycket själva innan vi faktiskt lärt oss grundligt.
+
 ### 13
 
 ## AI i yrkeslivet
