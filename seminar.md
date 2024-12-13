@@ -153,3 +153,7 @@ Kite är ett AI-verktyg som fokuserar på att förbättra utvecklares produktivi
 AWS CodeWhisperer är ett AI-verktyg från Amazon som hjälper utvecklare genom att generera kodförslag och automatisera repetitiva uppgifter. Det är djupt integrerat med AWS-ekosystemet och är särskilt kraftfullt för molnbaserade applikationer, med stöd för språk som Python, Java och JavaScript. CodeWhisperer är utformat för att förbättra utvecklingshastigheten och säkerheten genom att erbjuda förslag som följer bästa praxis och säkerhetsstandarder. Dess integration med molntjänster gör det till ett bra val för företag som använder AWS.
 
 ### 17
+
+Github co-pilot samt github co-pilot labs. Av det vi sett av dessa verktyg än så länge så är vi övertygade om att både co-pilot och labs kan vara till stor hjälp i vårt framtida arbetsliv när det gäller att både effektivisera samt städa upp vårt arbete och vår kod i framtiden. 
+
+Som studerande tänker vi att det kan användas som en extra hjälplärare som dessutom har tillgång till vår kod. Att kunna be den förklara koncept och ha direkt hjälp att tillgå utan att behöva hoppa fram och tillbaka är värdefullt som student.
