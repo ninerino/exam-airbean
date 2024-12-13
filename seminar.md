@@ -122,6 +122,10 @@ Nikki tyckte att Github labs code brushes som städar upp ser otroligt nice ut. 
 
 ### 14
 
+Robin är inte så orolig utan ser det mer som att det blir en global grej, eftersom AI kan ta många jobb i många olika branscher. Emund är inte heller särskilt orolig, men fundersam på hur svårt det blir att få sitt första jobb.
+
+Nikki ser AI som ett verktyg, inte som en ersättare. Precis som en miniräknare inte ersatte mattelärare så kommer AI vara en hjälpande hand snarare än en ersättare. Det behövs fortfarande människor för att både träna och dubbelkolla, och det behövs fortfarande mänsklig problemlösning.
+
 ### 15
 
 ## AI Generellt
