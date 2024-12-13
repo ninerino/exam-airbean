@@ -62,7 +62,7 @@ Gällande .promise() och att den är utdaterad så tror jag det beror på att in
 
 ### 07
 
-Stora skillnader i hur chatGPT svarar på frågan (dock efter att jag startat en helt ny chatt) - efter att jag beskrivit för chatGPT vem jag är och hur jag vill att den ska agera så svarar den på ett väldigt pedagogiskt sätt, med lättförståeliga liknelser och skillnader i ett konkret programmeringsexempel. 
+Stora skillnader i hur chatGPT svarar på frågan (dock efter att jag startat en helt ny chatt) - efter att jag beskrivit för chatGPT vem jag är och hur jag vill att den ska agera så svarar den på ett väldigt pedagogiskt sätt, med lättförståeliga liknelser och skillnader i ett konkret programmeringsexempel. Det blir mer som att jag sitter med en lärare som vill att jag ska förstå snarare än någon som bara ger mig rätt svar utan någon som helst kontext eller intresse i att jag ska lära mig hur det faktiskt fungerar.
 
 ### 08
 
