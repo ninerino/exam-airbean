@@ -70,24 +70,26 @@ Stora skillnader i hur chatGPT svarar på frågan (dock efter att jag startat en
 
 Vi tycker att det är OK att använda AI för att:
 
-- Få hjälp att lära sig koncept som är svåra att förstå
+- Få hjälp att lära sig koncept som är svåra att förstå<br>
 Exempel: Vad är skillnaden mellan var, let och const?
-- Få inspiration eller idéer
+- Få inspiration eller idéer<br>
 Exempel: Hur kan jag strukturera denna komponent för återanvändbarhet?
-- Felsökning
+- Felsökning<br>
 Exempel: Varför får jag "undefined is not a function"?
-- Automatisering av repetiva uppgifter
+- Automatisering av repetiva uppgifter<br>
 Exempel: få hjälp att fylla i en json-fil med data
-- Komplement till egen kodning
+- Komplement till egen kodning<br>
 Exempel: Kan du optimera den här funktionen så att den kör snabbare/använder mindre kod?
 
 Vi tycker **INTE** det är OK att använda AI för att:
 
-- Fuska, givetvis
-- Att undvika att lära sig
+- Fuska, givetvis<br>
+- Att undvika att lära sig<br>
 Exempel: Att hoppa över att läsa en dokumentation för att istället få ett snabbt svar av AI
-- Att ta AI-svaren utan att dubbelkolla
+- Att ta AI-svaren utan att dubbelkolla<br>
 Exempel: AI gör ofta fel, förstår du inte koden så kan du heller inte förstå vad felet är.
+
+Sammanfattningsvis tycker vi att det är OK att se AI som en lärare eller mentor som förklarar hur något fungerar utan att ge lösningar. Vi tycker dock det är viktigt att inte lita blint på de svar vi får från AI.
 
 ### 10
 
