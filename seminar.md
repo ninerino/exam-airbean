@@ -93,6 +93,15 @@ Sammanfattningsvis tycker vi att det är OK att se AI som en lärare eller mento
 
 ### 10
 
+Vi ser flera risker med att använda AI, men de tre största är:
+
+- Begränsad förståelse för lösningen <br>
+Om vi använder AI för att generera kod utan att förstå den så lär vi oss inte *hur* den fungerar eller *varför* den fungerar
+- Lär oss inte att problemlösa <br>
+Om vi använder AI för att lösa våra problem så riskerar vi att inte lära oss att problemlösa, utan istället att bara prompta en AI.
+- Felaktig eller ineffektiv kod <br>
+AI kan generera felaktig, utdaterad eller ineffektiv kod. Det krävs att vi kan och förstår för att vi ska kunna ta emot hjälp på ett bra sätt.
+
 ## AI som kodkompis
 
 ### 11
