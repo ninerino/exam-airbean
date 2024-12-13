@@ -37,6 +37,8 @@ Testade båda och fick liknande resultat i konsollen. Båda loggade varje kast o
 
 ### 04
 
+AI-verktyg kommer såklart överlag att fortsätta utvecklas och öka sin förmåga att lösa även mer komplexa problem i takt med att det matas in ny och mer utmanande data. Men för att hänvisa till torsdagens seminarium så ligger nog problemen snarare hos människan, att det krävs en förståelse för vad som byggs och vilka problem som bör lösas på vilket sätt. Med det sagt så är det svårt att på egen hand säga var begränsningarna går för dessa verktyg i dagsläget, men när vi frågar dom så får vi dessa svar.
+
 Enligt chatgpt är dess begränsningar att:
 - Jag kan inte interagera med externa API:er eller system i realtid utan hjälp av din lokala miljö.
 - För mycket specialiserade eller domänspecifika problem kan det ta tid att sätta upp en lösning om jag behöver ytterligare kontext.
