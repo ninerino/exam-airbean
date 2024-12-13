@@ -31,7 +31,13 @@ Svaret från chatGPT
 
 ### 03
 
-Testade båda och fick liknande resultat i konsollen. Båda loggade varje kast och om det var lyckat eller ej. De loggades även ut hur många kast totalt det resulterade i när spelet var slut.
+Vi testade båda versionerna och fick liknande resultat i konsolen. Här är vad som framkom under testerna:
+Båda versionerna loggade varje enskilt kast i konsolen.
+För varje kast kunde vi se vilket tal som genererades och om det var lyckat (matchade målet i stegen) eller ej.
+Båda versionerna markerade tydligt när ett steg i stegen blev avklarat.
+När spelet var slut, summerade båda versionerna antalet kast som behövdes för att klara hela stegen (1–6).
+Resultaten varierade, men låg ofta inom ett rimligt intervall för slumpmässiga kast.
+Totalt antal kast och spelets logik överensstämde mellan båda versionerna. Den största variationen kom från slumpen i tärningskasten, vilket förväntas i ett sådant spel.
 
 ## AI som studiekamrat
 
