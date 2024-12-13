@@ -128,6 +128,12 @@ Nikki ser AI som ett verktyg, inte som en ersättare. Precis som en miniräknare
 
 ### 15
 
+Nikki upplever att maskininlärningen ofta är utdaterad, och i o m att utvecklingen i branschen går väldigt snabbt så kan det vara svårt för verktygen att hålla sig relevanta. På temat säkerhet, så tänker nog inte AI:n alltid på hur sårbar koden möjligen är. Samtidigt kan den sakna kontext för hela projektet vilket kan göra att det ibland blir lite galet.
+
+Emund är tveksam till hallucinationerna som AI:n gör, det kan ofta resultera i ett felaktigt resultat så det gäller att veta vad man gör så man kan rätta till koden själv.
+
+Robin instämmer, och understryker hur viktigt det är att hela tiden fortsätta utveckla sitt eget kunnande och inte bli bekväm med att bara sitta och låta ett verktyg spotta ut AI-genererad kod, främst av anledningarna som nämns ovan. 
+
 ## AI Generellt
 
 ### 16
