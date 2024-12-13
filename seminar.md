@@ -138,4 +138,16 @@ Robin instämmer, och understryker hur viktigt det är att hela tiden fortsätta
 
 ### 16
 
+#### Tabnine
+
+Tabnine är en AI-driven kodkomplettering som använder maskininlärning för att ge relevanta kodförslag i realtid. Den stöder en mängd programmeringsspråk och kan integreras med populära IDE:er som Visual Studio Code, IntelliJ IDEA och Sublime Text. Tabnine fungerar både lokalt och i molnet, vilket ger användaren flexibilitet kring sekretess och dataskydd. Verktyget är särskilt användbart för att snabba upp utveckling och för att föreslå kod baserat på projektets kontext.
+
+#### Kite
+
+Kite är ett AI-verktyg som fokuserar på att förbättra utvecklares produktivitet genom avancerad kodkomplettering. Det stöder språk som Python, JavaScript och Go och fungerar med flera populära textredigerare som Atom, PyCharm och VS Code. Kite erbjuder även funktioner som dokumentation i realtid och föreslår kodblock baserat på tidigare mönster i projektet. Verktyget har blivit uppskattat för sin enkelhet, även om dess stöd för vissa språk är mer begränsat jämfört med konkurrenter.
+
+#### AWS CodeWhisperer
+
+AWS CodeWhisperer är ett AI-verktyg från Amazon som hjälper utvecklare genom att generera kodförslag och automatisera repetitiva uppgifter. Det är djupt integrerat med AWS-ekosystemet och är särskilt kraftfullt för molnbaserade applikationer, med stöd för språk som Python, Java och JavaScript. CodeWhisperer är utformat för att förbättra utvecklingshastigheten och säkerheten genom att erbjuda förslag som följer bästa praxis och säkerhetsstandarder. Dess integration med molntjänster gör det till ett bra val för företag som använder AWS.
+
 ### 17
